@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include testerpnext *.css
+recursive-include testerpnext *.csv
+recursive-include testerpnext *.html
+recursive-include testerpnext *.ico
+recursive-include testerpnext *.js
+recursive-include testerpnext *.json
+recursive-include testerpnext *.md
+recursive-include testerpnext *.png
+recursive-include testerpnext *.py
+recursive-include testerpnext *.svg
+recursive-include testerpnext *.txt
+recursive-exclude testerpnext *.pyc

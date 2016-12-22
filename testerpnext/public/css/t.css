@@ -1,0 +1,218 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    overflow: hidden;
+    background-size: cover;
+}
+
+.background_img {
+}
+
+img.background_img {}
+
+img.background_img {}
+
+.outer {
+    position: relative;
+}
+
+.date {
+    position: absolute;
+    color: #ffffff;
+    margin-left: 0px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.inner {
+    position: absolute;
+    z-index: 10;
+    background-color: #ffec16;
+    border-style: solid;
+    border-color: #ffec16;
+    border-width: 1px;
+    font-size: 26px;
+    width: 741px;
+    height: 843px;
+    margin: 50px 256px;
+    box-shadow: 0px 0px 10px #888888;
+}
+
+.text_color {
+    color: #67632a;
+    margin-top: 70px;
+    margin-left: -380px;
+}
+
+.close {
+    margin-top: -40px;
+    margin-right: 30px;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.white_block {
+    position: absolute;
+    z-index: 15;
+    width: 720px;
+    height: 565px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    margin-left: 340px;
+    margin-top: 200px;
+    box-shadow: 0px 0px 3px #888888;
+}
+
+.photo_margin {
+    position: absolute;
+    z-index: 20;
+    margin: -60px -270px;
+}
+
+.cancle_btn {
+    font-size: 20px;
+    color: #67632a;
+    background: none;
+    border-color: none;
+    border: none;
+    outline: hidden;
+    margin-top: 600px;
+    margin-left: 420px;
+}
+
+.save_btn {
+    font-size: 20px;
+    color: #67632a;
+    background: none;
+    border-color: none;
+    border: none;
+    outline: hidden;
+    margin-top: 600px;
+    margin-left: 50px;
+}
+
+.username_div {
+    position: absolute;
+    z-index: 30;
+    width: 620px;
+    border-bottom-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+
+.username_txt {
+    font-size: 18px;
+    font-family: arial;
+    border: none;
+    margin-left: -400px;
+}
+
+.username_lbl {
+    color: #d3d3d3;
+    font-size: 15px;
+    margin-left: -530px;
+    font-family: arial;
+}
+
+.sec_div {
+    position: absolute;
+    z-index: 30;
+    width: 620px;
+    border-bottom-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+    margin-left: 40px;
+    margin-top: 190px;
+}
+
+.firstname_lbl {
+    color: #d3d3d3;
+    font-size: 15px;
+    margin-left: -220px;
+    font-family: arial;
+}
+
+.firstname_txt {
+    font-size: 18px;
+    font-family: arial;
+    border: none;
+    margin-left: -90px;
+}
+
+.lastname_lbl {
+    color: #d3d3d3;
+    font-size: 15px;
+    margin-left: -170px;
+    font-family: arial;
+}
+
+.lastname_txt {
+    font-size: 18px;
+    font-family: arial;
+    border: none;
+    margin-left: -35px;
+}
+
+.left_line {
+    border-left-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+    padding-left: 60px;
+}
+
+.email_div {
+    position: absolute;
+    z-index: 30;
+    width: 620px;
+    border-bottom-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+    margin-left: 40px;
+    margin-top: 280px;
+}
+
+.email_lbl {
+    color: #d3d3d3;
+    font-size: 15px;
+    margin-left: -570px;
+    font-family: arial;
+}
+
+.email_txt {
+    font-size: 18px;
+    font-family: arial;
+    border: none;
+    margin-left: -400px;
+}
+
+.bio_div {
+    position: absolute;
+    z-index: 30;
+    width: 620px;
+    border-bottom-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+    margin-left: 40px;
+    margin-top: 380px;
+}
+
+.bio_lbl {
+    color: #d3d3d3;
+    font-size: 15px;
+    margin-left: -590px;
+    font-family: arial;
+}
+
+.bio_txt {
+    font-size: 18px;
+    font-family: arial;
+    border: none;
+    margin-left: 0px;
+    width: 620px;
+}
