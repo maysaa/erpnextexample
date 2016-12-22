@@ -1,6 +1,6 @@
 ## Testerpnext
 
-An simple example on erpnext 
+A simple example on erpnext 
 
 #### License
 
