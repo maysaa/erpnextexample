@@ -1,6 +1,6 @@
 ## Testerpnext
 
-KK
+An simple example on erpnext 
 
 #### License
 
