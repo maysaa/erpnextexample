@@ -1,6 +1,6 @@
-## Testerpnext
+## Testerpnext, V 1.0
 
-A simple example on erpnext 
+A simple example on erpnext, Not completed..
 
 #### License
 
